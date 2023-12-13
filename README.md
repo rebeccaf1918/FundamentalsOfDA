@@ -17,3 +17,14 @@ https://www.upgrad.com/blog/types-of-data/
 https://www.graphpad.com/support/faq/what-is-the-difference-between-ordinal-interval-and-ratio-variables-why-should-i-care/
 
 https://www.turing.com/kb/statistical-data-types
+
+
+
+
+*** References for Task 3
+
+*** References for Task 4
+
+https://pages.cs.wisc.edu/~sriram/ShannonEntropy-Intuition.pdf
+
+https://towardsdatascience.com/what-is-shannons-entropy-5ad1b5a83ce1
