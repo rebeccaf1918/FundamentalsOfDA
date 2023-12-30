@@ -22,6 +22,9 @@ https://www.turing.com/kb/statistical-data-types
 
 
 *** References for Task 3
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.choice.html
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html
 
 *** References for Task 4
 
