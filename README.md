@@ -28,6 +28,14 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.desc
 
 https://medium.com/the-researchers-guide/finding-the-best-distribution-that-fits-your-data-using-pythons-fitter-library-319a5a0972e9
 
+https://www.datainsightonline.com/post/how-to-find-the-distribution-that-fits-your-data-best
+
+https://blog.minitab.com/en/adventures-in-statistics-2/how-to-identify-the-distribution-of-your-data-using-minitab
+
+https://www.analyticsvidhya.com/blog/2022/04/data-exploration-and-visualisation-using-palmer-penguins-dataset/
+
+https://stackoverflow.com/questions/23251759/how-to-determine-what-is-the-probability-distribution-function-from-a-numpy-arra
+
 *** References for Task 4
 
 https://pages.cs.wisc.edu/~sriram/ShannonEntropy-Intuition.pdf
