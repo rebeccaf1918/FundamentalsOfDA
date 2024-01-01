@@ -36,3 +36,7 @@ https://towardsdatascience.com/what-is-shannons-entropy-5ad1b5a83ce1
 
 *** References for Task 5
 https://seaborn.pydata.org/generated/seaborn.histplot.html
+https://www.geeksforgeeks.org/data-visualisation-in-python-using-matplotlib-and-seaborn/
+https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html
+https://seaborn.pydata.org/generated/seaborn.countplot.html
+https://www.datacamp.com/tutorial/seaborn-python-tutorial
