@@ -26,6 +26,8 @@ https://numpy.org/doc/stable/reference/random/generated/numpy.random.choice.html
 
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html
 
+https://medium.com/the-researchers-guide/finding-the-best-distribution-that-fits-your-data-using-pythons-fitter-library-319a5a0972e9
+
 *** References for Task 4
 
 https://pages.cs.wisc.edu/~sriram/ShannonEntropy-Intuition.pdf
