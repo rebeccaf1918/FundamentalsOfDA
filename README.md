@@ -33,3 +33,6 @@ https://medium.com/the-researchers-guide/finding-the-best-distribution-that-fits
 https://pages.cs.wisc.edu/~sriram/ShannonEntropy-Intuition.pdf
 
 https://towardsdatascience.com/what-is-shannons-entropy-5ad1b5a83ce1
+
+*** References for Task 5
+https://seaborn.pydata.org/generated/seaborn.histplot.html
